@@ -1,0 +1,13 @@
+{
+  "name": "students-contract-tests",
+  "version": "1.0.0",
+  "main": "run-tests.js",
+  "license": "ISC",
+  "dependencies": {
+    "hotpocket-js-client": "0.5.7",
+    "bson": "6.0.0"
+  },
+  "scripts": {
+    "test": "node run-tests.js"
+  }
+}
